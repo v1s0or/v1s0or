@@ -1,10 +1,12 @@
-![banner](https://i.ibb.co/R6sqwmR/Frank-Ocean-Blonded-radio.jpg)
-# Yo wsp names vinny 
+
+![banner](https://i.pinimg.com/originals/0f/c5/7c/0fc57c690ae25c8687562de40b673cd2.gif)
+# 
+# Hi hello ppl looking at my profile
 abt me: im a c#, java, batch, and python dev,
 just an average developer,
 security researcher, malware analyst.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinvinnyy)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinvinnyy&langs_count=20&theme=dark&layout=compact)
 
 ## what i do in this profile
 fix exploits,
