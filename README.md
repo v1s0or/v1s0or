@@ -1,7 +1,7 @@
 
 ![banner](https://i.pinimg.com/originals/0f/c5/7c/0fc57c690ae25c8687562de40b673cd2.gif)
 # 
-# Hi hello ppl looking at my profile
+# Hi 
 abt me: im a c#, java, batch, and python dev,
 just an average developer,
 security researcher, malware analyst.
