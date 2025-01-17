@@ -6,7 +6,7 @@ abt me: im a c#, java, batch, and python dev,
 just an average developer,
 security researcher, malware analyst.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1s0or&exclude_repo=Cobalt&exclude_repo=Lost-in-Translation&langs_count=20&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1s0or&exclude_repo=Cobalt&langs_count=20&layout=compact&theme=dark)
 ## what i do in this profile
 fix exploits,
 release my own hacking tools (they are useless tbh),
