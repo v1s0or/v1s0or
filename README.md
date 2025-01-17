@@ -6,7 +6,7 @@ abt me: im a c#, java, batch, and python dev,
 just an average developer,
 security researcher, malware analyst.
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=v1s0or&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=Cobalt,Lost-in-Translation)
 ## what i do in this profile
 fix exploits,
 release my own hacking tools (they are useless tbh),
