@@ -11,3 +11,11 @@ security researcher, malware analyst. Usually called a hacker myself 😼
 fix exploits,
 release my own hacking tools (i recommend Cobra),
 and way more!
+
+# Projects i made i recommend checking out
+very cool things ive made
+#
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v1s0or&repo=Lotus&theme=dark)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v1s0or&repo=Nebula&theme=dark)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v1s0or&repo=Cobra&theme=dark)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v1s0or&repo=AternalJaguar&theme=dark)]()
