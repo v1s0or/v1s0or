@@ -20,4 +20,4 @@ very cool things ive made
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v1s0or&repo=Cobra&theme=dark)]()
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v1s0or&repo=AternalJaguar&theme=dark)]()
 # Cybersecurity Company 
-yes i own a cybersecurity company with [NullClock](https://github.com/NullClock) as co-founder ![Blazar Security](https://github.com/Blazar-Security)
+yes i own a cybersecurity company with [NullClock](https://github.com/NullClock) as co-founder [Blazar Security](https://github.com/Blazar-Security)
