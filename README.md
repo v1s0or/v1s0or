@@ -12,7 +12,7 @@ fix exploits,
 release my own hacking tools (i recommend Cobra),
 and way more!
 also i hunt any fakies trying to steal your info 
-so thank me
+so thank me, skids
 
 # Projects i made i recommend checking out
 very cool things ive made
