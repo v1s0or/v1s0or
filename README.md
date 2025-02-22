@@ -10,6 +10,7 @@ security researcher, malware analyst. Usually called a hacker myself 😼, who e
 ## what i do in this profile
 - fix exploits
 - release my own hacking tools (i recommend Cobra)
+
 and way more!
 also i hunt any fakies trying to steal your info 
 so thank me, skids
