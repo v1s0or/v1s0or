@@ -6,7 +6,7 @@ abt me: im a c#, java, batch, and python dev,
 just an average developer,
 security researcher, malware analyst. Usually called a hacker myself 😼
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1s0or&exclude_repo=Cobalt,Lost-in-Translation,Soprano&langs_count=12&layout=donut&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1s0or&exclude_repo=Cobalt,Lost-in-Translation,Soprano,rjRAT-Source,space&langs_count=12&layout=donut&theme=dark)
 ## what i do in this profile
 fix exploits,
 release my own hacking tools (i recommend Cobra),
