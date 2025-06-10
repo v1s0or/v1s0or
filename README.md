@@ -3,7 +3,7 @@
 abt me: im a c#, java, batch, and python dev,
 just an average developer,
 security researcher, malware analyst. Usually called a hacker myself 😼, who ever says vb.net has the best syntax, delete your github account,
-honestly im looking where to work to keep me busy or sum ive worked on something called memblu, social network thing
+honestly im looking where to work to keep me busy im really good at making flask applications and desktop applications.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1s0or&exclude_repo=DanderSpritz-Source,Cobalt,Lost-in-Translation,Soprano,njRAT-Source,Luna-Stealer,stuxnet&langs_count=12&layout=donut&theme=dark)
 ## what i do in this profile
