@@ -8,7 +8,8 @@ honestly im looking where to work to keep me busy im really good at making flask
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1s0or&exclude_repo=DanderSpritz-Source,Cobalt,Lost-in-Translation,Soprano,njRAT-Source,Luna-Stealer,stuxnet&langs_count=12&layout=donut&theme=dark)
 ## what i do in this profile
 - fix exploits
-- release my own hacking tools (i recommend Cobra)
+- release my own hacking tools
+- i use this profile for version controlling my projects
 
 and way more!
 also i hunt any fakies trying to steal your info 
