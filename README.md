@@ -11,6 +11,12 @@ honestly im looking where to work to keep me busy im really good at making flask
 - release my own hacking tools
 - i use this profile for version controlling my projects
 
+## Languages/frameworks i use personally here and not here
+[![lang and frameworks](https://skillicons.dev/icons?i=py,java,dotnet,cs,sqlite,flask)](https://skillicons.dev)
+
+## IDE's (idk if anyone cares im just trying to add more here)
+[![lang and frameworks](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse)](https://skillicons.dev)
+
 and way more!
 also i hunt any fakies trying to steal your info 
 so thank me, skids
@@ -22,5 +28,3 @@ very cool things ive made
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v1s0or&repo=Nebula&theme=dark)]()
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v1s0or&repo=Cobra&theme=dark)]()
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v1s0or&repo=AternalJaguar&theme=dark)]()
-# Cybersecurity Company 
-yes i own a cybersecurity company with [NullClock](https://github.com/NullClock) as co-founder [Blazar Security](https://github.com/Blazar-Security)
