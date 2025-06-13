@@ -17,10 +17,6 @@ honestly im looking where to work to keep me busy im really good at making flask
 ## IDE's (idk if anyone cares im just trying to add more here)
 [![lang and frameworks](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse)](https://skillicons.dev)
 
-and way more!
-also i hunt any fakies trying to steal your info 
-so thank me, skids
-
 # Projects i made i recommend checking out
 very cool things ive made
 #
