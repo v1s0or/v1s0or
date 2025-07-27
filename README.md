@@ -17,11 +17,3 @@ Honestly im looking where to work to keep me busy im really good at making flask
 
 ## IDE's (idk if anyone cares im just trying to add more here)
 [![lang and frameworks](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
-
-# Projects i made i recommend checking out
-very cool things ive made
-#
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v1s0or&repo=Lotus&theme=dark)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v1s0or&repo=Nebula&theme=dark)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v1s0or&repo=Cobra&theme=dark)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v1s0or&repo=AternalJaguar&theme=dark)]()
