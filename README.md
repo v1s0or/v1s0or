@@ -13,4 +13,4 @@ Honestly im looking where to work to keep me busy im really good at making flask
 - i use this profile for version controlling my projects
 
 ## Languages/frameworks i use personally here and not here
-[![lang and frameworks](https://skillicons.dev/icons?i=py,java,dotnet,cs,sqlite,flask,cpp)](https://skillicons.dev)
+[![lang and frameworks](https://skillicons.dev/icons?i=py,java,dotnet,cs,sqlite,flask,c)](https://skillicons.dev)
