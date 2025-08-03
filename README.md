@@ -14,6 +14,3 @@ Honestly im looking where to work to keep me busy im really good at making flask
 
 ## Languages/frameworks i use personally here and not here
 [![lang and frameworks](https://skillicons.dev/icons?i=py,java,dotnet,cs,sqlite,flask,cpp)](https://skillicons.dev)
-
-## IDE's (idk if anyone cares im just trying to add more here)
-[![lang and frameworks](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
