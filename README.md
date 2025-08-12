@@ -3,9 +3,9 @@
 im a c#, java, batch, python, full stack dev, and security researcher, malware analyst.
 Honestly im looking where to work to keep me busy im really good at making flask applications and desktop applications.
 
-![GitHub stats](https://my-repository-nine-rust.vercel.app/api?username=v1s0or&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=v1s0or&show_icons=true&theme=dark)
 
-![Top Langs](https://my-repository-nine-rust.vercel.app/api/top-langs/?username=v1s0or&exclude_repo=DanderSpritz-Source,Cobalt,Lost-in-Translation,Soprano,njRAT-Source,Luna-Stealer,stuxnet&langs_count=12&layout=donut&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1s0or&exclude_repo=DanderSpritz-Source,Cobalt,Lost-in-Translation,Soprano,njRAT-Source,Luna-Stealer,stuxnet&langs_count=12&layout=donut&theme=dark)
 
 ## what i do in this profile
 - fix exploits
