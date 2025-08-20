@@ -1,6 +1,5 @@
-![banner](https://i.pinimg.com/originals/0f/c5/7c/0fc57c690ae25c8687562de40b673cd2.gif)
 # Hello!!! Hi!!!!!!
-im a c#, java, batch, python, full stack dev, and security researcher, malware analyst.
+im a c#, java, batch, python, full stack dev; malware analyst, and cybersecurity specialist.
 Honestly im looking where to work to keep me busy im really good at making flask applications and desktop applications.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=v1s0or&show_icons=true&theme=dark)
